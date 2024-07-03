@@ -13,3 +13,4 @@ if ($id){
     header("Location: ../index.php");
     exit;
 }
+?>
